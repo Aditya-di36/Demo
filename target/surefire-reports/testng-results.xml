@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-13T11:46:06 IST" name="Suite" finished-at="2025-05-13T11:46:24 IST" duration-ms="18053">
+    <groups>
+    </groups>
+    <test started-at="2025-05-13T11:46:06 IST" name="ChromeTest" finished-at="2025-05-13T11:46:13 IST" duration-ms="6928">
+      <class name="com.actitime.testcases.TC1_ActitimeLogin">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.actitime.testcases.TC1_ActitimeLogin@60099951]" started-at="2025-05-13T11:46:06 IST" name="setup" finished-at="2025-05-13T11:46:12 IST" duration-ms="5711" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:0, instance:com.actitime.testcases.TC1_ActitimeLogin@60099951]" started-at="2025-05-13T11:46:12 IST" name="login" finished-at="2025-05-13T11:46:13 IST" duration-ms="901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.actitime.testcases.TC1_ActitimeLogin@60099951]" started-at="2025-05-13T11:46:13 IST" name="teardown" finished-at="2025-05-13T11:46:13 IST" duration-ms="286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.actitime.testcases.TC1_ActitimeLogin -->
+    </test> <!-- ChromeTest -->
+    <test started-at="2025-05-13T11:46:13 IST" name="EdgeTest" finished-at="2025-05-13T11:46:24 IST" duration-ms="11101">
+      <class name="com.actitime.testcases.TC1_ActitimeLogin">
+        <test-method is-config="true" signature="path()[pri:0, instance:com.actitime.testcases.TC1_ActitimeLogin@235ecd9f]" started-at="2025-05-13T11:46:06 IST" name="path" finished-at="2025-05-13T11:46:06 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- path -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.actitime.testcases.TC1_ActitimeLogin@235ecd9f]" started-at="2025-05-13T11:46:13 IST" name="setup" finished-at="2025-05-13T11:46:22 IST" duration-ms="9262" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[EDGE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:0, instance:com.actitime.testcases.TC1_ActitimeLogin@235ecd9f]" started-at="2025-05-13T11:46:22 IST" name="login" finished-at="2025-05-13T11:46:23 IST" duration-ms="415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.actitime.testcases.TC1_ActitimeLogin@235ecd9f]" started-at="2025-05-13T11:46:23 IST" name="teardown" finished-at="2025-05-13T11:46:24 IST" duration-ms="1419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.actitime.testcases.TC1_ActitimeLogin -->
+    </test> <!-- EdgeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
