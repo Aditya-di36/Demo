@@ -8,7 +8,7 @@ public class TC2_Demo
 	@Test
 	public void demo()
 	{
-		Reporter.log("demo",true);
+		Reporter.log("demoooooooooooo",true);
 		Reporter.log("demo",true);
 	}
 }
