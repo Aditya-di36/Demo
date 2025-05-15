@@ -10,6 +10,7 @@
   <parameter name="browser" value="CHROME"></parameter>
     <classes>
       <class name="com.actitime.testcases.TC1_ActitimeLogin"/>
+      <class name="com.actitime.testcases.TC2_Demo"/>
     </classes>
   </test>
 
@@ -17,6 +18,7 @@
   <parameter name="browser" value="EDGE"></parameter>
     <classes>
       <class name="com.actitime.testcases.TC1_ActitimeLogin"/>
+      <class name="com.actitime.testcases.TC2_Demo"/>
     </classes>
   </test>
 
